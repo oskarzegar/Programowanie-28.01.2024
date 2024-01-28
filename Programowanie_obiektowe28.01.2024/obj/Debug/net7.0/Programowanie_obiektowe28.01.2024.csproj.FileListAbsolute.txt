@@ -1,0 +1,15 @@
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\bin\Debug\net7.0\Programowanie_obiektowe28.01.2024.exe
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\bin\Debug\net7.0\Programowanie_obiektowe28.01.2024.deps.json
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\bin\Debug\net7.0\Programowanie_obiektowe28.01.2024.runtimeconfig.json
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\bin\Debug\net7.0\Programowanie_obiektowe28.01.2024.dll
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\bin\Debug\net7.0\Programowanie_obiektowe28.01.2024.pdb
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.csproj.AssemblyReference.cache
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.AssemblyInfoInputs.cache
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.AssemblyInfo.cs
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.csproj.CoreCompileInputs.cache
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.dll
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\refint\Programowanie_obiektowe28.01.2024.dll
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.pdb
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\Programowanie_obiektowe28.01.2024.genruntimeconfig.cache
+C:\Users\w67213\Desktop\Programowanie_obiektowe28.01.2024\obj\Debug\net7.0\ref\Programowanie_obiektowe28.01.2024.dll
